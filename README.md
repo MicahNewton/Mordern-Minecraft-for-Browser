@@ -1,1 +1,1 @@
-# Mordern-Minecraft-for-Browser
+# Mordern Minecraft for Browser
